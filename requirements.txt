@@ -1,0 +1,15 @@
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+pyautogui==0.9.54
+numpy==1.26.2
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+keyboard==0.13.5
+googletrans==3.1.0a0
+gtts==2.3.2
+playsound==1.2.2
+wikipedia==1.4.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+transformers==4.35.2
+torch==2.6.0 
